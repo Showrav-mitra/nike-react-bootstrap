@@ -4,6 +4,7 @@
 .header-bg{
     background-color: #fff9f4;
     padding-bottom: 100px;
+    margin-bottom: 20px;
 }
 .my-logo img{
     width: 100%;
@@ -29,12 +30,12 @@
     color: #FA804C;
 }
 .btn-buynow{
-    background-color:#172496;
+    background-color:#071068;
     font-size: 16px;
     font-weight: 500;
     height: 60px;
     width: 170px;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 .btn-buynow i{
     font-size: 14px;
