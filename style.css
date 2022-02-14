@@ -1,3 +1,79 @@
 .body{
     font-family: 'Poppins', sans-serif;
 }
+.header-bg{
+    background-color: #fff9f4;
+    padding-bottom: 100px;
+}
+.my-logo img{
+    width: 100%;
+}
+.menu-items li{
+    margin: 0 0 0 30px;
+    font-weight: 700;
+}
+.nike-img img{
+    width: 100%;
+}
+.nike-topic{
+    padding-top: 100px;
+}
+.nike-topic h1{
+    font-size: 80px;
+    line-height: 80px;
+}
+.headline-fonts{
+    color: #363958;
+}
+.headline-fonts span{
+    color: #FA804C;
+}
+.btn-buynow{
+    background-color:#172496;
+    font-size: 16px;
+    font-weight: 500;
+    height: 60px;
+    width: 170px;
+    border-radius: 10px;
+}
+.btn-buynow i{
+    font-size: 14px;
+    padding-right: 10px;
+}
+/* header section end */
+
+/* main section start  */
+
+.main-area{
+    padding-bottom: 60px;
+}
+.casual-shoes{
+    border: none;
+    border-radius: 1.25rem;
+}
+.casual-shoes img{
+    background-color: #f1f1f1;
+    border-radius: 30px;
+    width: 100%;
+}
+.casual-shoes h5{
+    font-size: 24px;
+    font-weight: 700;
+    color: #363958;
+}
+.casual-shoes h3{
+    font-size: 36px;
+    font-weight: 900;
+    color: #FA804C;
+    margin-bottom: 0;
+}
+.card-padding{
+    padding: 20px 0 0 0;
+}
+.shoe-area{
+    padding-bottom: 20px;
+    font-weight: 48px;
+}
+.cart-mobile{
+    padding: 58px 0;
+}
