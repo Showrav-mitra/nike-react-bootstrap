@@ -50,7 +50,7 @@
 }
 .casual-shoes{
     border: none;
-    border-radius: 1.25rem;
+    border-radius: 1.25rem!important;
 }
 .casual-shoes img{
     background-color: #f1f1f1;
@@ -77,4 +77,21 @@
 }
 .cart-mobile{
     padding: 58px 0;
+}
+
+/* footer start */
+#contact{
+    text-align: center;
+    padding-top: 10px;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+#contact li{
+    display: inline-block;
+    margin-right: 15px;
+}
+#contact p{
+    margin-bottom: 0;
 }
